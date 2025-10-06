@@ -1,0 +1,5 @@
+I’m Alex “Axe” Polar, a Senior Data Engineer in London. I build clean, 
+observable data pipelines and analytics layers that help teams make decisions with confidence. 
+My toolkit includes Python, SQL, Spark, Airflow, dbt, and modern cloud warehouses. 
+I’m currently diving into AI—experimenting with LLMs, retrieval pipelines, 
+and MLOps to bring smarter insights to products and dashboards.
